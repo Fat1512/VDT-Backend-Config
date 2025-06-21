@@ -3,7 +3,7 @@ namespace: "vdt"
 # Deployment
 image:
   repository: "fat1512/vdt-service-crud"
-  tag: ea4dece0
+  tag: 8023f388
 
 replicaCount: 1
 

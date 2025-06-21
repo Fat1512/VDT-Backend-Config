@@ -3,7 +3,7 @@ namespace: "vdt"
 # Deployment
 image:
   repository: "fat1512/vdt-service-auth"
-  tag: 22f09119
+  tag: 3b81fed4
 
 replicaCount: 1
 

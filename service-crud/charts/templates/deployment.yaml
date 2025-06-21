@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: {{ .Chart.Name }}
-        image: fat1512/vdt-service-crud:null
+        image: fat1512/vdt-service-crud:9a608372
         ports:
         - name: http
           containerPort: {{ .Values.service.targetPort }}
